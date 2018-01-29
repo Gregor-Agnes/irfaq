@@ -1,5 +1,5 @@
 {
-	"name": "phorax/irfaq",
+	"name": "gregor-agnes/irfaq",
 	"type": "typo3-cms-extension",
 	"description": "FAQ frontend plugin with dynamic or static view which will merge and improve functionality of EXT:faq and EXT:faq_plus into a modern look",
 	"homepage": "https://github.com/PHORAX/irfaq",
